@@ -1,0 +1,7 @@
+node_modules/
+out/
+release/
+安装/
+coverage/
+*.log
+.DS_Store
